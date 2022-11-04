@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-title: 'Crossmodal face and voie style transfer'
-description: Anonymous
-show_downloads: false
-is_project_page: false
+github:
+  is_project_page: false
+title: [Crossmodal Face and Voice Style Transfer]
