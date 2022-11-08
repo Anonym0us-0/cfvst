@@ -1,4 +1,4 @@
-## <center>Anonymus demo page for <BR>Cross-modal face and voice style transfer</center>
+## <center>Anonymus demo page for Cross-modal face and voice style transfer</center>
 
 ## Introduction
 This page provides the audio and image samples shown in the paper as well as some additional samples. All results on the audio-guided image translation, image-guided voice conversion, and latent-guided face & voice generation are obtained by the single proposed model. 
