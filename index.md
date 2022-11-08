@@ -1,10 +1,11 @@
-## <center>Anonymus demo page for Cross-modal face and voice style transfer</center>
+# <center> Cross-modal face and voice style transfer</center>
+<center>Anonymus</center>
 
-## Introduction
+# Introduction
 This page provides the audio and image samples shown in the paper as well as some additional samples. All results on the audio-guided image translation, image-guided voice conversion, and latent-guided face & voice generation are obtained by the single proposed model. 
 <BR><BR>
 
-## Audio-guided image translation
+# Audio-guided image translation
 The audio samples for the results shown in Fig.1a in the paper.
 
 <table align="center"  style="text-align: center;">
@@ -82,7 +83,7 @@ These are additional results.
 </table>
 <BR><BR>  
     
-## Image-guided voice conversion
+# Image-guided voice conversion
 The outputs are produced by converting the source voice using reference images. The images are from the image-only dataset (CelebA-HQ), hence, there is no ground truth voice. The first sample is the results shown in Fig.1b in the paper. We also provide additional samples.
 
 <table align="center"  style="text-align: center;">
@@ -169,7 +170,7 @@ The outputs are produced by converting the source voice using reference images. 
 </table>
 <BR><BR> 
 
-## Latent-guided face and voice generation
+# Latent-guided face and voice generation
 We sample four latent vecots, compute the style vectors using the mapping network, and gnerate faces and voices from two source face and voices. The samples are the results shown in Fig.6 in the paper. 
 
 <table align="center"  style="text-align: center;">
