@@ -7,6 +7,7 @@ This page provides the audio and image samples shown in the paper as well as som
 
 ## Audio-guided image translation
 The audio samples for the results shown in Fig.1a in the paper.
+
 <table align="center"  style="text-align: center;">
   <thead>
     <tr>
@@ -18,22 +19,22 @@ The audio samples for the results shown in Fig.1a in the paper.
     </tr>
   </thead>
   <tbody>
-      <tr>
+    <tr>
       <td>Reference</td>
       <td style="text-align: center;"><img src="media/A2I/ref/dk.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
         <source src="media/A2I/ref/dk.wav"></audio></td>
       <td style="text-align: center;"><img src="media/A2I/ref/p302.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
-        <source src="media/A2I/ref/p302.wav"></audio></td></td>
+        <source src="media/A2I/ref/p302.wav"></audio></td>
       <td style="text-align: center;"><img src="media/A2I/ref/eh.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
-        <source src="media/A2I/ref/eh.wav"></audio></td></td>
+        <source src="media/A2I/ref/eh.wav"></audio></td>
       <td style="text-align: center;"><img src="media/A2I/ref/p300.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
-        <source src="media/A2I/ref/p300.wav"></audio></td></td>
-      </tr>
-      <tr>
+        <source src="media/A2I/ref/p300.wav"></audio></td>
+    </tr>
+    <tr>
       <td>Output</td>
       <td style="text-align: center;"><img src="media/A2I/out/SRC_069067_TRG_dk.jpg"></td>
       <td style="text-align: center;"><img src="media/A2I/out/SRC_051340_TRG_p302.jpg"></td>
@@ -63,13 +64,13 @@ These are additional results.
         <source src="media/A2I/ref/p295.wav"></audio></td>
       <td style="text-align: center;"><img src="media/A2I/ref/eh.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
-        <source src="media/A2I/ref/eh.wav"></audio></td></td>
+        <source src="media/A2I/ref/eh.wav"></audio></td>
       <td style="text-align: center;"><img src="media/A2I/ref/p259.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
-        <source src="media/A2I/ref/p259.wav"></audio></td></td>
+        <source src="media/A2I/ref/p259.wav"></audio></td>
       <td style="text-align: center;"><img src="media/A2I/ref/5cQoGNEcc5Q.jpg" width="128" height="128"><BR>
         <audio  controls="" style="width:150px;" preload="auto">
-        <source src="media/A2I/ref/5cQoGNEcc5Q.wav"></audio></td></td>
+        <source src="media/A2I/ref/5cQoGNEcc5Q.wav"></audio></td>
       </tr>
       <tr>
       <td>Output</td>
