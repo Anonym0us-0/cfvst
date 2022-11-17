@@ -45,7 +45,7 @@ The audio samples for the results shown in Fig.1a in the paper.
 </table>
 <BR><BR>  
 
-These are additional results.
+Additional results shown in the supplimental material.
 <table align="center"  style="text-align: center;">
   <thead>
     <tr>
@@ -84,7 +84,7 @@ These are additional results.
 <BR><BR>  
     
 # Image-guided voice conversion
-The outputs are produced by converting the source voice using reference images. The images are from the image-only dataset (CelebA-HQ), hence, there is no ground truth voice. The first sample is the results shown in Fig.1b in the paper. We also provide additional samples.
+The outputs are produced by converting the source voice using reference images. The images are from the image-only dataset (CelebA-HQ), hence, there is no ground truth voice. The first sample is the results shown in Fig.1b in the paper and rest are present in the supplemental material. 
 
 <table align="center"  style="text-align: center;">
   <thead>
@@ -171,7 +171,7 @@ The outputs are produced by converting the source voice using reference images. 
 <BR><BR> 
 
 # Latent-guided face and voice generation
-We sample four latent vecots, compute the style vectors using the mapping network, and gnerate faces and voices from two source face and voices. The samples are the results shown in Fig.6 in the paper. 
+We sample four latent codes, compute style vectors from the codes using the mapping network, and gnerate faces and voices from two source face and voices using the style vectors. The samples are the results shown in Fig.6 in the paper. 
 
 <table align="center"  style="text-align: center;">
   <thead>
