@@ -240,4 +240,11 @@ We sample four latent codes, compute style vectors from the codes using the mapp
 </tr>    
   </tbody>
 </table>
+<BR><BR>
+  
+# Results on out-of-domain samples
+To test the generalizability of the model to out-of-domain samples, we use FFHQ dataset, which is not included during training, for source image of audio-guided image translation. For audio, we use VCTK, LRS3, Wav2Lip, as well as VoxCeleb2, which is unseen during training.  
+
+<img src="media/A2I/out/ffhq_female.png" width="600" >
 <BR><BR>  
+<img src="media/A2I/out/ffhq_male.png" width="600" >
